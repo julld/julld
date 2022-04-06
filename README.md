@@ -8,6 +8,8 @@
 
 <div style="display: inline_block"><br>
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+            <i class="devicon-html5-plain"></i>
+          
           
 </div>
