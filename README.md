@@ -7,9 +7,5 @@
 </div>
 
 <div style="display: inline_block"><br>
-
-
-            <i class="devicon-html5-plain"></i>
-          
-          
+    <i class="devicon-html5-plain"></i>
 </div>
